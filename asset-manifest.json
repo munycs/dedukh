@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dedukh/static/css/main.6112cb39.css",
+    "main.js": "/dedukh/static/js/main.4b7de7c6.js",
+    "static/js/453.34689040.chunk.js": "/dedukh/static/js/453.34689040.chunk.js",
+    "static/media/hero.jpeg": "/dedukh/static/media/hero.a9bf52666429783559e8.jpeg",
+    "index.html": "/dedukh/index.html",
+    "main.6112cb39.css.map": "/dedukh/static/css/main.6112cb39.css.map",
+    "main.4b7de7c6.js.map": "/dedukh/static/js/main.4b7de7c6.js.map",
+    "453.34689040.chunk.js.map": "/dedukh/static/js/453.34689040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6112cb39.css",
+    "static/js/main.4b7de7c6.js"
+  ]
+}
